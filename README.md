@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jigyasu</h1>
-<h3 align="center">A passionate ML Enthusiast from India</h3>
+<h3 align="center">A Passionate MERN Learner</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **Mern Stack Development**
 
 - 📫 How to reach me **jigyasumakkar20102004@gmail.com**
 
