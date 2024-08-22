@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jigyasu</h1>
-<h3 align="center">A Passionate MERN Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning **Full Stack**
 
-- 💬 Ask me about **React, Express, Node**
+- 💬 Ask me about **React, Express, Node, Typescript, Databases**
 
 - 📫 How to reach me **jigyasumakkar20102004@gmail.com**
 
