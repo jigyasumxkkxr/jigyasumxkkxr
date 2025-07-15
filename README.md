@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=jigyasumxkkxr&color=green)
+
 <h1 align="center">Hi 👋, I'm Jigyasu</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
