@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 ---
-### 📊 GitHub Summary Cards
+### GitHub Summary
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jigyasumxkkxr&theme=prussian" alt="Profile Details" />
@@ -15,7 +15,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jigyasumxkkxr&theme=prussian&utcOffset=5.3" alt="Productive Time" />
 </p>
 
-### 💻 My Development Toolkit
+### My Development Toolkit
 <table align="center">
   <tr>
     <td><strong>Programming Languages</strong></td>
@@ -60,5 +60,5 @@
   </tr>
 </table>
 
-## GitHub Contribution Summary
+### GitHub Contribution Summary
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
